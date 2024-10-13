@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Niraj Mittapelly 👋!
 
-<!--
-**Niraj-Mittapelly/Niraj-Mittapelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I specialize in data analytics, data management, and visualization. With hands-on experience in SQL, MySQL, Power BI, and Advanced Excel, I help businesses uncover actionable insights that drive growth 📈.
 
-Here are some ideas to get you started:
+### Key Skills & Expertise:
+Data Analysis & Visualization: Power BI, DAX, SQL, MySQL
+Data Management: Cleaning, validation, anomaly detection
+Business Reporting: Dashboards, trend analysis, KPI reporting
+Programming: SQL for data manipulation .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Projects:
+**Shield Insurance Analysis:** Delivered 20% customer satisfaction growth through customized insights.
+
+**Business Insight 360:** Improved reporting efficiency by 30% using Power BI dashboards.
+
+**Sales & Finance Analytics:** Automated data cleansing, saving 4 hours per report cycle and boosting accuracy by 30%.
+
+Let’s connect and explore how data can drive smarter decisions!
+
+🔗[LinkedIn](linkedin.com/in/niraj-mittapelly-6512b0223) | 📧 nirajmittapelly07@gmail.com
